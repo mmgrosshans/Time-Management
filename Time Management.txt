@@ -1,0 +1,61 @@
+---
+title: "Time Management (Part 1)"
+author: "Your Name Here"
+date: "Due: September 4, 2018"
+output: html_notebook
+---
+
+# 1. Time Sheet [5 points]
+
+Please record daily hours spent on each activity for one week beginning 9/9/2019.  Each day/column should add to 24 hours, and all 168 hours for the week should be accounted.  Feel free to add additional rows if more categories are needed.
+
+
+| **Activity**   | Mon (9/9) | Tues (9/10) | Wed (9/11) | Thur (9/12) | Fri (9/13) | Sat (9/14) | Sun (9/15) | Row Total |  
+|:---------------|:----------:|:-----------:|:----------:|:-----------:|:----------:|:---------:|:---------:|:---------:|  
+| Sleep          |    7.5     |      7.5    |     8.5    |     8       |      8     |     7     |     7     |     53.5  |  
+| Meals          |     1      |       1     |      1     |     1       |       1    |     1     |      1    |      7    |  
+| Class          |     6      |       3     |      3     |      2      |      3     |      0    |     0     |      17   |  
+| Study/Hwk      |      4     |      3.5    |      6.5   |      3      |      3     |      3    |     5     |     28    |  
+| Meetings       |      0     |       0     |      0     |      0      |      0     |      0    |     0     |      0    |  
+| Exercise       |      0     |       1     |      0     |      1      |      1     |      1    |     1     |      5    |  
+| Family/Friends |      1     |       0     |      1     |      1      |      2     |      1    |     1     |      7    |  
+| Phone          |      2     |       1     |      1     |      1      |      1     |     0.5   |    0.5    |      7    |  
+| Work           |      0     |       5     |      0     |      5      |      0     |     5     |     5     |      20   |  
+| TV/Games       |     2      |       1     |      2     |      1      |      4     |      5    |      3    |      18   |  
+| Travel         |      1     |       1     |      1     |       1     |      1     |     0.5   |     0.5   |      6    |  
+| **TOTALS**     |    24      |      24     |      24    |      24     |      24    |     24    |     24    |     168   |  
+
+
+
+### Comments, Observations, Reactions?
+
+*Are there any activities you think you should give less time to?  Any you should give more time to?  (NOTE: An ideal schedule has 7-9 hours of sleep per night, and 2 hours of studying/homework per credit hour of class each week).*
+
+I really think I shouldn't be working 20 hours a week during the school year, it should probably be closer to 12 hours/3 days a week.
+
+
+
+# 2. Penn State Learning’s article on time management.
+
+*Read the article, and then complete part 3 and part 4 below.*
+
+[Time Management Article Link](https://pennstatelearning.psu.edu/time-management) 
+
+
+
+
+# 3. Tips/Suggestions [3 points] 
+
+*Come up with five concrete tips/suggestions that you think will help you personally to make the best use of your time. These can be tips explicitly mentioned in the article (but please choose ones that resonate with you), or other tips/suggestions that you come up with on your own. The suggestions should be things that you aren’t already doing, and should be suggestions that you actually plan on implementing or at least trying.*
+
+Being flexible about my schedule, reviewing lecture notes everyday, taking advantage of ALL of my available time, studying around 2 hours for every hour spent in class, and don't study for one long period of time.
+
+
+# 4. One Improvement [2 points]
+
+*What one thing do you think is or will be most detrimental to your use of time? This can be based on your time sheet for this week, or just on your knowledge of yourself. How do you plan to combat this?*
+
+I need to make sure that I don't just study or do all my work at night. I need to make sure that I'm studying for a little every chance that I get in order to know the material that I'm trying to learn.
+
+
+
